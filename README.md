@@ -1,7 +1,7 @@
 # JS-Calculator
 A basic four function calculator which is capable of doing simple arithmetic, which includes addition, subtraction, multiplication, and division. It has a seamless UX and simple user interface.  
 
-Source Code (codepen): https://codepen.io/itsayaankhan/full/MWQMRdJ
+Source Code (codepen): https://codepen.io/itsayaankhan/pen/MWQMRdJ
 
 View App: https://lustrous-croissant-c7f03b.netlify.app/
 
